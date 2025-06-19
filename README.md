@@ -3,3 +3,5 @@ A lightweight Python/Typescript library for converting raw energy telemetry  (CS
 Designed for developers building energy forecasting models or dashboards. 
 
 Compatible with solar PV, batteries, OpenEMS, and campus microgrids. 
+
+# Work in progress !
